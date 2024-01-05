@@ -16,8 +16,8 @@ app.get('/api/jokes',(req,res)=>{
         },
         {
            id:2,
-           title:'A joke',
-           contsnt:'This  is joke' 
+           title:'A lion Joke',
+           contsnt:'This  is joke for lion' 
         },
         {
            id:3,
